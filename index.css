@@ -1,0 +1,20 @@
+.heading{
+    color: red;
+}
+body{
+    color: saddlebrown;
+    font-size: 20px;
+}
+.text{
+    background-color: yellow;
+    font-size: larger;
+}
+#l1{
+    text-decoration: line-through;
+}
+#l2{
+    text-decoration: underline; 
+}
+.text1{
+    letter-spacing: 3px;
+}
